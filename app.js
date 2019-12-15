@@ -48,3 +48,13 @@ const HIGH_TEMPERATURES = {
   
   console.log(lowToday); // should be 64
   console.log(highToday); // should be 77
+
+
+//assign variables from arrays
+  let a = 8, b = 6;
+// change code below this line
+
+[a, b] = [b, a];
+// change code above this line
+console.log(a); // should be 6
+console.log(b); // should be 8
