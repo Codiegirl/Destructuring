@@ -5,3 +5,4 @@ Replace the two assignments with an equivalent destructuring assignment. It shou
 
 Replace the two assignments with an equivalent destructuring assignment. It should still assign the variables lowToday and highToday the values of today.low and today.high from the LOCAL_FORECAST object.
 
+Use destructuring assignment to swap the values of a and b so that a receives the value stored in b, and b receives the value stored in a.
